@@ -1,0 +1,9 @@
+.bg-image-container {
+    background-image: url('https://media.istockphoto.com/id/944631208/photo/education-concept-with-book-in-library.webp?b=1&s=170667a&w=0&k=20&c=CU3yLNxGU2Kigcxd9vs5bGdw5VN2rpcVsX_x6bzHNXM=');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
